@@ -1,0 +1,50 @@
+html {
+  background-color: rgb(214, 145, 145);
+}
+.container {
+  position: relative;
+  text-align: center;
+}
+.card {
+  position: relative;
+  background-color: rgb(177, 63, 63);
+  width: 420px;
+  margin-left: 33%;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: auto;
+  box-shadow: 0 0 20px rgb(50, 82, 50);
+  overflow: hidden;
+}
+.background-image {
+  width: 420px;
+  height: 300px;
+}
+.fb-logo {
+  width:72px;
+  height: 70px;
+}
+.rsgate-logo {
+  width: 49px;
+  height: 49px;
+  padding-bottom: 10px;
+}
+.github-logo {
+  width: 68px;
+  height: 60px;
+  padding-bottom: 6px;
+}
+.ytube-logo {
+  width: 65px;
+  height: 70px;
+  padding-top: 7px;
+}
+.square-rotator {
+  position: absolute;
+  background-color: rgb(177, 63, 63);
+  height: 85px;
+  width: 430px;
+  transform: rotate(-7deg);
+  margin-top: -350px;
+}
+

@@ -1,0 +1,8 @@
+.pic {
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: -540px;
+    margin-left: -90px;
+}
